@@ -30,7 +30,7 @@ A wrapper for aiolifx to connect to a single LIFX device
 Features
 --------
 
-* TODO
+* A small wrapper around aiolifx to connect to a single device without discovery
 
 Credits
 -------
