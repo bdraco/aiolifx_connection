@@ -1,3 +1,5 @@
+This library is no longer used as its been merged into aiolifx.
+
 ==================
 AIOLIFX Connection
 ==================
